@@ -62,12 +62,6 @@
 
 </td><td valign="top" width="33%">
 
-
-  ### Python⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-<div align="center">  
-<img style="margin: 10px" src="https://lh3.googleusercontent.com/proxy/OhJf9U6UsZSN9ZLjkiAvRuqXF-OcP8mYzOe6bRTODXRzuWABQ0Ja_N6D4Rj17ilwNdprdOTpf3BnwG1Hudt3FbnPIIz6AmEvtvw" alt="Python" height="50" />  
-  </td></table>
-  <br>
   
  <table><tr><td valign="top" width="33%">
 
