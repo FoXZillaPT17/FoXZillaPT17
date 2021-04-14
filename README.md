@@ -59,9 +59,9 @@
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS" height="50" />  
 </div>
-
+<br><br>
 </td><td valign="top" width="33%">
-<br>
+
 
   ### PHP and SQL
 <div align="center">  
